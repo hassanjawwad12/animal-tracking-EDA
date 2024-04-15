@@ -1,2 +1,8 @@
 # animal-tracking-EDA
 Extensive exploratory Data Analysis on animal-tracking dataset from kaggle.
+
+Animal tracking data helps us understand how individuals and populations move within local areas, migrate across oceans and continents and evolve across generations. This information is being used to address environmental challenges such as climate and land use change, biodiversity loss, invasive species, wildlife trafficking and the spread of infectious diseases.
+
+Since the twentieth century, improved communication systems, shrinking battery sizes and other technological developments have led to a range of methods for tracking animals. Scientists have been systematically tracking individual animal movements since around 1900, when the first bird ringing (also known as bird banding) schemes were started. In the late 1950s, researchers began using radio transmitters to track wildlife. In the late 1970s, the Argos satellite system provided a new method for tracking animals globally. And in the early 1990s, the global positioning system (GPS) began to provide the potential to obtain high-resolution tracking data.
+
+Choosing a tracking method involves trade-offs between size, price, and amount and ease of data collection. The ideal tag would be lightweight enough to be safely carried by the animal, cheap enough to put on many individuals, and able to transmit high-resolution data remotely so that the animal did not need to be captured again. In reality, a scientist must choose the best available method based on the size and movement patterns of the study animal, the study budget and the research questions they want to address.
